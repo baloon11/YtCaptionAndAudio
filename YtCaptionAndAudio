@@ -1,0 +1,7 @@
+#This file is run through " source /path_to_this_file/YtCaptionAndAudio " *from bash*
+# you cannot run it directly
+
+URL=http://www.youtube.com/watch?v=OTEMuea9nx4
+
+python ytaudio.py $URL
+python ytcaption.py -u $URL
