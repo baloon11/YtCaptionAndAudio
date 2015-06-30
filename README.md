@@ -11,3 +11,7 @@ in YtCaptionAndAudio change url
 and start 
 
 source /path_to_this_file/YtCaptionAndAudio
+
+Requirements
+------------
+pip install pafy==0.3.74
